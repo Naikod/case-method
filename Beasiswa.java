@@ -20,10 +20,14 @@ public class Beasiswa {
 
     public static String[][] tambahPendaftar(String pendaftar[][]){
         
+        // Tambah pendaftar
+
         return pendaftar;
     }
 
     public static void tampilkanPendaftar(String pendaftar[][]){
+
+        // Tampilkan Pendaftar
 
     }
 
